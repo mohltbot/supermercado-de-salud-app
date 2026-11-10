@@ -1,0 +1,32 @@
+[
+  {
+    "id": "scc-2026-10-06-fall-vaccines",
+    "level": "notice",
+    "title": {
+      "es": "Vacunas de otoño contra COVID, gripe y VRS",
+      "en": "Fall vaccines for COVID, flu and RSV"
+    },
+    "body": {
+      "es": "El condado de Santa Clara informa que ya hay actividad temprana de gripe. Las vacunas actualizadas contra el COVID, la gripe y el VRS ya están disponibles con su doctor, en farmacias y en algunas clínicas. El condado recomienda que todas las personas de 6 meses en adelante se pongan la vacuna contra el COVID y la de la gripe. Los niños hasta 18 años pueden vacunarse sin costo con el programa Vacunas para Niños. Si no tiene seguro, llame al 866-967-4677 para recibir ayuda.",
+      "en": "Santa Clara County reports early flu activity. Updated COVID, flu and RSV vaccines are now available from your doctor, at pharmacies and at some clinics. The county recommends the COVID vaccine and this year's flu shot for everyone 6 months and older. Children up to age 18 can get vaccines at no cost through the Vaccines for Children program. If you have no insurance, call 866-967-4677 for help."
+    },
+    "publishedAt": "2026-10-06T12:00:00Z",
+    "expiresAt": "2027-03-01T00:00:00Z",
+    "link": "https://publichealth.santaclaracounty.gov/news/news-release/early-flu-activity-means-now-time-protect-your-family-against-fall-viruses"
+  },
+  {
+    "id": "scc-2026-09-29-rsv",
+    "level": "notice",
+    "title": {
+      "es": "Vacuna contra el VRS para bebés, embarazo y adultos mayores",
+      "en": "RSV protection for babies, pregnancy and older adults"
+    },
+    "body": {
+      "es": "El VRS es más común de octubre a marzo. El condado recomienda la vacuna para todas las personas de 75 años o más y para adultos de 50 a 74 años con más riesgo. Para proteger a un bebé, se recomienda la vacuna durante el embarazo (entre las semanas 32 y 36, del 1 de septiembre al 1 de marzo) o un anticuerpo para el bebé después del nacimiento. Pregunte a su doctor.",
+      "en": "RSV is most common from October to March. The county recommends the vaccine for everyone 75 and older and for adults 50 to 74 at higher risk. To protect a baby, the county recommends the vaccine during pregnancy (weeks 32 to 36, September 1 to March 1) or an antibody given to the baby after birth. Ask your doctor."
+    },
+    "publishedAt": "2026-09-29T12:00:00Z",
+    "expiresAt": "2027-03-01T00:00:00Z",
+    "link": "https://publichealth.santaclaracounty.gov/diseases/virus-respiratorio-sincitial-vrs"
+  }
+]
